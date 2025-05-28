@@ -66,6 +66,15 @@ function Login() {
         {error && <p className="error-message">{error}</p>}
         <button type="submit">Login</button>
       </form>
+      <p style={{ textAlign: "center", marginTop: "1rem" }}>
+        Don’t have an account?{" "}
+        <span
+          style={{ color: "#3b82f6", cursor: "pointer", textDecoration: "underline" }}
+          onClick={() => navigate("/register")}
+        >
+          Register
+        </span>
+      </p>
     </div>
   );
 }
