@@ -3,8 +3,8 @@
 A full-stack web application that allows users to register/login, access their webcam to record video, preview/download/delete/rename recordings, and upload them to the server — all via a clean, modern UI.
 
 > 🚀 Deployed on:  
-> Frontend (Vercel): [https://your-frontend-url.vercel.app](https://your-frontend-url.vercel.app)  
-> Backend (Render): [https://your-backend-url.onrender.com](https://your-backend-url.onrender.com)
+> Frontend (Vercel): [https://video-recorder-auth-app.vercel.app/](https://video-recorder-auth-app.vercel.app/)  
+> Backend (Render): [https://video-recorder-auth-app.onrender.com](https://video-recorder-auth-app.onrender.com)
 
 ---
 
